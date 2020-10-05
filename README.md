@@ -1,0 +1,2 @@
+# Otakustan
+Otakustans discord bot
